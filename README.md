@@ -15,13 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Stats 👾
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=juskek)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juskek&exclude_repo=stonks&hide=SWIG)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Justin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juskek)](https://github.com/anuraghazra/github-readme-stats)
-
-### LeetCode Stats 🧪
-![Leetcode Stats](https://leetcard.jacoblin.cool/justkek)
-

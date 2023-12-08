@@ -1,8 +1,8 @@
 ![Alt text](images/image.png)
 <!-- omit in toc -->
-# Flutter vs React Native 2023: As a senior dev
+# Flutter vs React Native Dec 2023: As a senior dev
 <!-- VARIABLE:REFER_TO_MAIN_ARTICLE_INTRO -->
-> This article is a subset of the main article, [Flutter vs React Native 2023: A guide from every experience level](), which is a high level comparison of Flutter and React Native from different experience levels and some use cases. This article goes into detail on the differences between Flutter and React Native from a senior developer’s perspective, and is meant to support the main article.
+> This article is a subset of the main article, [Flutter vs React Native Dec 2023: A guide from every experience level](../0-main/react-native-vs-flutter.md), which is a high level comparison of Flutter and React Native from different experience levels and some use cases. This article goes into detail on the differences between Flutter and React Native from a senior developer’s perspective, and is meant to support the main article.
 
 
 - [1. As a Senior Dev, what are the tradeoffs between Flutter and React Native?](#1-as-a-senior-dev-what-are-the-tradeoffs-between-flutter-and-react-native)
@@ -102,5 +102,5 @@ We've covered the differences between Flutter and React Native from a senior dev
 - React Native excels in the amount of packages available, which means someone else has probably already solved the problem you are facing, saving dev time.
 
 <!-- VARIABLE:REFER_TO_MAIN_ARTICLE_CONCLUSION -->
-If you're interested in learning more about the differences between Flutter and React Native from different experience levels, as well as some use cases for each framework, check out the main article, [Flutter vs React Native 2023: A guide from every experience level]().
+If you're interested in learning more about the differences between Flutter and React Native from different experience levels, as well as some use cases for each framework, check out the main article, [Flutter vs React Native Dec 2023: A guide from every experience level](../0-main/react-native-vs-flutter.md).
 

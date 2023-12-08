@@ -156,5 +156,5 @@ We've covered the differences between Flutter and React Native from a CTO's pers
 - React Native excels in the amount of resources, web support and OTA updates. Again, the fact that someone else has already solved your problem means that you can save dev time and resources. Additionally, web support means that you can deploy to the web with SEO, which is a key advantage over Flutter. Finally, OTA updates allow you to push updates to your users without going through the app store review process, which can be a huge time saver.
 
 <!-- VARIABLE:REFER_TO_MAIN_ARTICLE_CONCLUSION -->
-If you're interested in learning more about the differences between Flutter and React Native from different experience levels, as well as some use cases for each framework, check out the main article, [Flutter vs React Native 2023: A guide from every experience level]().
+If you're interested in learning more about the differences between Flutter and React Native from different experience levels, as well as some use cases for each framework, check out the main article, [Flutter vs React Native 2023: A guide from every experience level](../0-main/react-native-vs-flutter.md).
 

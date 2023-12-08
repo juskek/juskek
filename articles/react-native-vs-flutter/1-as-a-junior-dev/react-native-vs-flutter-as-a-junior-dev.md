@@ -2,7 +2,7 @@
 <!-- omit in toc -->
 # Flutter vs React Native 2023: As a Junior Dev
 
-> This article is a subset of the main article, [Flutter vs React Native 2023: A guide from every experience level](), which is a high level comparison of Flutter and React Native from different experience levels and some use cases. This article goes into detail on the differences between Flutter and React Native from a junior developer’s perspective, and is meant to support the main article.
+> This article is a subset of the main article, [Flutter vs React Native 2023: A guide from every experience level](../0-main/react-native-vs-flutter.md), which is a high level comparison of Flutter and React Native from different experience levels and some use cases. This article goes into detail on the differences between Flutter and React Native from a junior developer’s perspective, and is meant to support the main article.
 
 
 
@@ -207,4 +207,4 @@ We've covered the differences between Flutter and React Native from a junior dev
   - In JS/React Native, I've spent more time learning about the JS ecosystem and how to debug complicated toolchains, which is typically abstracted away in Flutter. This became a framework agnostic skill for me, but was frustrating to learn as a junior dev.
 
 <!-- VARIABLE:REFER_TO_MAIN_ARTICLE_CONCLUSION -->
-If you're interested in learning more about the differences between Flutter and React Native from different experience levels, as well as some use cases for each framework, check out the main article, [Flutter vs React Native 2023: A guide from every experience level]().
+If you're interested in learning more about the differences between Flutter and React Native from different experience levels, as well as some use cases for each framework, check out the main article, [Flutter vs React Native 2023: A guide from every experience level](../0-main/react-native-vs-flutter.md).

@@ -89,14 +89,14 @@ and access code actions for commonly performed operations.
 
 Another thing I noticed was the difference in DevX when trying to debug in Flutter and React Native.
 
-When I try to debug something in Flutter, my Google search might begin with “flutter <bug>”, or I’ll go to issues in the Flutter GitHub repository and search for the bug.
+When I try to debug something in Flutter, my Google search might begin with `flutter <bug>`, or I’ll go to issues in the Flutter GitHub repository and search for the bug.
 
 As a junior dev, when I tried to debug something in React Native, I would usually:
 
-Google “<bug>” first,
+Google `<bug>` first,
 Potentially see that it could be caused by different components in the toolchain,
 Think about which component in the toolchain could be causing the issue, and
-Add the components that I think are causing the bug to the search, e.g. “react native jest node babel <bug>”.
+Add the components that I think are causing the bug to the search, e.g. `react native jest node babel <bug>`.
 This multistage debugging process for React Native is because JavaScript’s ecosystem comprises numerous build tools, compilers, and frameworks that can interact in complex ways. This complexity means that bugs can arise from any number of sources, not solely the React Native framework itself. Therefore, it’s often necessary to consider the entire toolchain when diagnosing problems, which can be daunting for junior developers.
 
 

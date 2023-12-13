@@ -18,7 +18,9 @@
   - [6.2. I want to build an app for mobile, desktop and web (e.g. Spotify)](#62-i-want-to-build-an-app-for-mobile-desktop-and-web-eg-spotify)
   - [6.3. I want to build an app for mobile, and I want native behaviour (e.g. native scrolling, fancy iOS components)](#63-i-want-to-build-an-app-for-mobile-and-i-want-native-behaviour-eg-native-scrolling-fancy-ios-components)
 - [7. Conclusion](#7-conclusion)
-- [8. Resources](#8-resources)
+- [8. Appendix](#8-appendix)
+  - [Upcoming](#upcoming)
+  - [Resources](#resources)
 
 
 ## 1. Introduction
@@ -196,7 +198,23 @@ Big shoutout to:
 
 Disclosure: I’ve tried to write this article as objectively as I can, but I am not omniscient nor completely unbiased (I started my dev journey with Flutter). Please leave a comment if you feel like this article is missing key points of debate, so that we can have more insightful discussions to grow both communities and potentially shape the frameworks into their niche!
 
-## 8. Resources
+## 8. Appendix
+
+### Upcoming
+
+Kotlin Multiplatform + Jetpack Compose is another cross-platform framework that is gaining traction. I will be analyising it in this article once I have more experience with it, but essentially, the main differences between Kotlin Multiplatform, React Native and Flutter are:
+- Flutter
+  - UI and Biz Logic in Dart
+- React Native
+  - Native UI called by JS
+  - Biz Logic in JS
+- Kotlin Multiplatform
+  - Native UI
+    - (or you can also call UI through Jetpack Compose)
+  - Biz Logic in Kotlin
+
+### Resources
+
 Other related articles I have written:
 
 - [Implementing the DRVVM model in Flutter](https://justinkek.medium.com/implementing-the-drvvm-model-in-flutter-055780ac8bad)

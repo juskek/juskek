@@ -15,17 +15,19 @@
     - [2.3.3. Visual bugs in Flutter are not platform or device-dependent](#233-visual-bugs-in-flutter-are-not-platform-or-device-dependent)
 - [3. React Native Wins: Packages and native components](#3-react-native-wins-packages-and-native-components)
   - [3.1. There are more JS packages than Dart packages](#31-there-are-more-js-packages-than-dart-packages)
-- [4. Conclusion](#4-conclusion)
+- [4. Subjective: Job Stability, Skill Ceiling](#4-subjective-job-stability-skill-ceiling)
+  - [4.1. Job Stability](#41-job-stability)
+  - [4.2. Skill Ceiling](#42-skill-ceiling)
+- [5. Conclusion](#5-conclusion)
 
 
 ## 1. As a Senior Dev, what are the tradeoffs between Flutter and React Native?
 
-As a senior dev, factors such as developer experience may become less important since you have acquired the skills, knowledge and tools to work around DevX hurdles. Instead, the questions you may be concerned about are:
+As a senior dev, factors such as developer experience may become less important since you have acquired the skills, knowledge and tools to work around DevX hurdles. Instead, the questions you may be concerned about can extend beyond the goals of your organisation and team, and into your personal goals as well:
 
 > - How can the framework help my team work faster and smarter?
-<!-- > - Which framework will have more job stability so that I can support my dependents?
-> - Which framework has a higher skill ceiling so that I can continue to grow as a developer?
-> - Which framework is more likely to be used in the future? -->
+> - Which framework will have higher job stability?
+> - Which framework has a higher skill ceiling so that I can continue to grow?
 
 
 ## 2. Flutter Wins: Dependency Injection, E2E testing, UI standardisation
@@ -92,8 +94,64 @@ Because Flutter uses its own rendering engine to draw UI components, bugs that o
 
 As mentioned before, the number of JS packages far outnumber Dart packages. This not only includes packages contributing to user features but developer packages as well, e.g. env var syncing, code generators.
 
+## 4. Subjective: Job Stability, Skill Ceiling
 
-## 4. Conclusion
+### 4.1. Job Stability
+When you are a senior developer, you may be at the age where you have dependents or liabilities, and job stability becomes a more important factor in your decision-making process. A few questions to consider for job stability are:
+- How many job opportunities are there for Flutter vs React Native?
+- Is there a trend in popularity for Flutter vs React Native from the perspective companies looking to hire?
+- Have there been any recent announcements from companies that they are moving towards/away from Flutter or React Native? What were their reasons for doing so?
+
+The answers to these questions are subjective to the individual, time frame and market conditions, so it is important to do your own research and come to your own conclusions.
+
+### 4.2. Skill Ceiling
+
+As a senior developer, you may be looking to grow your skills and knowledge, and you may be wondering which framework has a higher skill ceiling. I would say that the skill ceiling in both frameworks have enough technical depth to keep you engaged and learning for a long time, but the difference lies in the areas of focus.
+
+On the business-focused side, 
+- Flutter and React Native will both allow you to work with native code
+- Flutter will allow you to work with OOP concepts, while React Native will allow you to work with functional programming concepts
+- React Native will allow you to tap into the vast ecosystem of JS, while Flutter will allow you to work with Dart, which is a more modern language
+
+On the lower-level side, if you intend to contribute to engineering the framework, Flutter and React Native offers different challenges:
+
+- Flutter consists of the 
+  - Flutter framework, which is written in Dart, and provides elements for you to build your app
+  - Flutter engine, which is written in C++, and provides the rendering, I/O and other low-level services
+  - Flutter embedder, which is written in native code to run the engine on any platform
+
+
+<figure>
+  <img src="https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png" alt="my alt text"/>
+  <figcaption style="text-align: center; font-size: smaller;">
+    Flutter Architecture
+    <a href="https://docs.flutter.dev/resources/architectural-overview">(Source)</a>
+  </figcaption>
+</figure>
+
+
+- React Native consists of the
+  - React Native framework, which is written in JS and provides elements for you to build your app
+  - RN Fabric Renderer, which is written in JS and native code, allowing native components to be rendered
+  - RN Turbo Modules, which is written in JS and native code, allowing JS and native code to communicate with each other
+
+
+<figure>
+  <img src="https://res.cloudinary.com/formidablelabs/image/upload/f_auto,q_auto/v1675121564/dotcom/uploads-new-diagram-full" alt="my alt text"/>
+  <figcaption style="text-align: center; font-size: smaller;">
+    my_caption
+    <a href="https://formidable.com/blog/2019/lean-core-part-4/">(Source)</a>
+  </figcaption>
+</figure>
+
+You can read more about Flutter's architecture [here](https://docs.flutter.dev/resources/architectural-overview) and React Native's architecture [here](https://reactnative.dev/docs/next/the-new-architecture/landing-page) and [here](https://formidable.com/blog/2019/lean-core-part-4/).
+
+Both frameworks have their own challenges, and will allow you to develop transferable skills that can be applied to other frameworks and languages. A few questions to consider when deciding which framework to learn are:
+- What are my personal goals? 
+- Does Flutter or React Native align more with my personal goals? 
+- How can I use this to my advantage?
+
+## 5. Conclusion
 <!-- VARIABLE:INDIVIDUAL_PERSPECTIVE_CONCLUSION -->
 We've covered the differences between Flutter and React Native from a senior developer's perspective, which can be summarised as:
 
